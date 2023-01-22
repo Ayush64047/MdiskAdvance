@@ -76,7 +76,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/lazyindu/MovieStorageWala&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Ayush64047/MdiskAdvance&name=MdiskAdvance)
 
 
 <details><summary>Deploy To VPS</summary>
